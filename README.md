@@ -61,6 +61,3 @@ Colab-ready copies of all notebooks (with Colab badges and setup cells) are in t
 | Reading the Data — EDA for Executives | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rgarzonj/python_data_science_basics/blob/main/collab/reading_the_data.ipynb) |
 | Data Science Libraries Tour | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rgarzonj/python_data_science_basics/blob/main/collab/data_science_libraries_tour.ipynb) |
 
-## Web versions
-
-Static HTML versions (no installation required, Python runs in the browser via Pyodide) are available in the [`web_version/`](web_version/) folder.
