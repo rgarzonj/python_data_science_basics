@@ -1,0 +1,25 @@
+name: ds-basics
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - plotly
+  - pip
+  # PyTorch CPU-only (works on both Intel and Apple Silicon Macs)
+  - pytorch::pytorch
+  - pytorch::torchvision
+  - pytorch::torchaudio
+  - cpuonly
+  - pip:
+      - transformers
