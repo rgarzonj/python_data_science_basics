@@ -61,3 +61,14 @@ Colab-ready copies of all notebooks (with Colab badges and setup cells) are in t
 | Reading the Data — EDA for Executives | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rgarzonj/python_data_science_basics/blob/main/collab/reading_the_data.ipynb) |
 | Data Science Libraries Tour | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rgarzonj/python_data_science_basics/blob/main/collab/data_science_libraries_tour.ipynb) |
 
+Additional notebooks in the [`ds_for_business/`](ds_for_business/) folder can also be launched directly in Colab:
+
+| Notebook | Open |
+|---|---|
+| Session 2 — Modeling in Action | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rgarzonj/python_data_science_basics/blob/main/ds_for_business/session2_modeling_in_action.ipynb) |
+| Session 3 — Overfitting Demo | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rgarzonj/python_data_science_basics/blob/main/ds_for_business/session3_overfitting_demo.ipynb) |
+| Session 4 — Clustering | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rgarzonj/python_data_science_basics/blob/main/ds_for_business/session4_clustering.ipynb) |
+| Session 5 — Evaluation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rgarzonj/python_data_science_basics/blob/main/ds_for_business/session5_evaluation.ipynb) |
+
+
+
